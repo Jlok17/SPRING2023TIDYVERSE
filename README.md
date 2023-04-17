@@ -145,5 +145,11 @@ We will use a birth dataset from ‘fivethirtyeight.com’. This dataset contain
 
 
 
+# Joshua Lok
+Initial Description and Link:
 
+In this assignment we will get to practice collaborating around a code project with GitHub. We will create and example using one or more TidyVerse packages and demonstrate how to use the capabilities. I will use a Bob Ross dataset from 'fivethirtyeight.com'.
 
+<li> <a href = "https://github.com/Jlok17/2022MSDS/blob/main/TidyVerse%20Create%20Lok.Rmd"> Github </a> </li>
+<li> <a href = "https://rpubs.com/Jlok17/1029687"> Rpubs </a> </li>
+<li> <a href = "https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/"> fivethirtyeight </a> </li>
